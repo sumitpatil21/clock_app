@@ -1,20 +1,10 @@
 # clock_app
+```dart
+ Timer.periodic(Duration(seconds: 1), (timer) {
+      setState(() {
+        dateTime = DateTime.now();
+      });
+```
+https://github.com/user-attachments/assets/00fdd07f-300f-43a0-b686-db84e9978fd9
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
-https://github.com/sumitpatil21/clock_app/assets/148967002/2a2a6a59-5210-487d-b036-bb888f35e703
 
