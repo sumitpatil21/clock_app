@@ -5,7 +5,17 @@
         dateTime = DateTime.now();
       });
 ```
+## Clock App
+### Description
+- #### The Clock App is a simple and intuitive application designed to display the current time and date. It provides real-time updates and is ideal for users who need a reliable digital clock and calendar on their devices. This app features a clean and modern interface, making it easy to read and use. ####
 
+## Features
+- Real-Time Clock: Displays the current time and date, updating every second.
+- Multiple Time Formats: Supports both 12-hour and 24-hour time formats.
+- Customizable Appearance: Allows users to change themes and colors.
+- Alarm Functionality: Set and manage alarms with ease (optional feature based on implementation).
+- World Clock: View times in different time zones (optional feature based on implementation).
+- Snooze and Repeat Options: Manage alarms with snooze and repeat options (if alarm functionality is included)
 # My Project
 
 Here are some images with different sizes:
